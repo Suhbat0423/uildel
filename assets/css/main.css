@@ -1658,18 +1658,22 @@ body {
   }
 }
 .outer-nav li.is-vis:nth-child(2) {
+  border-top: 1px solid white;
   -webkit-transition-delay: 0.04s;
   transition-delay: 0.04s;
 }
 .outer-nav li.is-vis:nth-child(3) {
   -webkit-transition-delay: 0.08s;
   transition-delay: 0.08s;
+  border-top: 1px solid white;
 }
 .outer-nav li.is-vis:nth-child(4) {
+  border-top: 1px solid white;
   -webkit-transition-delay: 0.12s;
   transition-delay: 0.12s;
 }
 .outer-nav li.is-vis:nth-child(5) {
+  border-top: 1px solid white;
   -webkit-transition-delay: 0.16s;
   transition-delay: 0.16s;
 }
