@@ -669,6 +669,9 @@ body {
     max-width: 100%;
   }
 }
+.max-width{
+  max-width: 700px;
+}
 .intro--banner {
   position: relative;
   height: 200px;
